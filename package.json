@@ -1,0 +1,16 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "Diferentes opciones de menu",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Javascript"
+  ],
+  "author": "Larry Caycho <larry.kevin.c.c@gmail.com>",
+  "license": "MIT"
+}
